@@ -1,2 +1,2 @@
 # ProjetosAutomacaoEmPython
-Projetos de autoação utilizando Python 
+Projetos de automação utilizando Python 
